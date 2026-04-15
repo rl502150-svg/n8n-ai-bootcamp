@@ -1,0 +1,8 @@
+Prio: Urgent
+
+Name: Aspen
+
+Submitted: 2026-04-15T10:32:58.621-07:00
+
+Description:
+User reported that their VPN is not connecting. Basic troubleshooting steps (checking internet connection, restarting computer) did not resolve the issue, and the user requested human help.
